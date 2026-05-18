@@ -1,0 +1,15 @@
+Added Component: Designator=D1(DIOC2012X06N)
+Added Component: Designator=D2(DIOC2012X06N)
+Added Component: Designator=D3(DIOC2012X06N)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Add Class Member: Failed to add class member : Component C1 10uF_Cap
+Added Member To Class: ClassName=Sheet2 Member=Component D1 led
+Added Member To Class: ClassName=Sheet2 Member=Component D2 led
+Added Member To Class: ClassName=Sheet2 Member=Component D3 led
